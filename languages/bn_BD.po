@@ -1,0 +1,552 @@
+# Keenmoon WordPress Theme. Translation template file.
+# This file is distributed under the same license as the Keenmoon Theme.
+msgid ""
+msgstr ""
+"Project-Id-Version: Keenmoon\n"
+"POT-Creation-Date: 2016-03-13 20:34+0600\n"
+"PO-Revision-Date: 2016-03-14 01:40+0600\n"
+"Last-Translator: \n"
+"Language-Team: GetCoderZone <getcoderzone@gmail.com>\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+msgid ""
+"Sorry, we could not found the page you are looking for!<br>Please search using the "
+"below form again."
+msgstr ""
+"দুঃখিত, আপনি যে পৃষ্ঠাটি খুঁজছেন আমরা  সেটি খুঁজে পাই নি ! <br> নিচের ফর্মটি আবার ব্যবহার "
+"করে অনুসন্ধান করুন."
+
+#: 404.php:23 header.php:124
+msgid "SEARCH..."
+msgstr "অনুসন্ধান ..."
+
+#: 404.php:25
+msgid "Search for:"
+msgstr "অনুসন্ধান করুন"
+
+#: 404.php:28
+msgid "Go To Home Page"
+msgstr "হোমপেজে যান"
+
+#: archive.php:35
+#, php-format
+msgid "Author: %s"
+msgstr "লেখক: %s"
+
+#: archive.php:43
+#, php-format
+msgid "Day: %s"
+msgstr "দিন : %s"
+
+#: archive.php:46
+#, php-format
+msgid "Month: %s"
+msgstr "মাস: %s"
+
+#: archive.php:49
+#, php-format
+msgid "Year: %s"
+msgstr "বছর: %s"
+
+#: archive.php:52
+msgid "Asides"
+msgstr "একটি পক্ষের"
+
+#: archive.php:55
+msgid "Images"
+msgstr "চিত্র"
+
+#: archive.php:58
+msgid "Videos"
+msgstr "ভিডিও"
+
+#: archive.php:61
+msgid "Quotes"
+msgstr "উদ্ধৃত মূল্যসমূহঃ"
+
+#: archive.php:64
+msgid "Links"
+msgstr "লিংক"
+
+#: archive.php:67
+msgid "Archives"
+msgstr "নথিপত্র"
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr "মন্তব্য গৌণ"
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; আগের কমেন্ট"
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "নতুন মন্তব্যগুলো  &rarr;"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "মন্তব্যসমূহ বন্ধ করা হয়েছে "
+
+#: content-page.php:28 content-single.php:35
+msgid "Edit"
+msgstr "সম্পাদন করা"
+
+#: content-single.php:34
+msgid "By"
+msgstr "কর্তৃক"
+
+#: content-single.php:41
+msgid "Pages:"
+msgstr "পেজ:"
+
+#: content-single.php:64
+msgid "Related Post"
+msgstr "সম্পর্কিত পোস্ট"
+
+#: content-single.php:102
+msgid "Read More"
+msgstr "বিস্তারিত পড়ুন"
+
+#: content.php:37
+msgid "Continue Reading"
+msgstr "বিস্তারিত পড়ুন"
+
+#: functions.php:24
+msgid "Primary Menu"
+msgstr "প্রাথমিক মেনু"
+
+#: functions.php:25
+msgid "Top Menu"
+msgstr "শীর্ষ মেনু"
+
+#: functions.php:208
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:208
+msgid "(Edit)"
+msgstr "(সম্পাদনা)"
+
+#: functions.php:242
+msgid "Your comment is awaiting moderation."
+msgstr "তোমার মতামত বিবেচনাধীন."
+
+#: functions.php:247
+msgid "Reply"
+msgstr "উত্তর"
+
+#: inc/customizer.php:16
+msgid "Change the Header Settings from here as you want"
+msgstr "এখানে থেকে শিরোলেখ সেটিংস পরিবর্তন হিসাবে আপনি চান"
+
+#: inc/customizer.php:18
+msgid "Header Options"
+msgstr "হেডার  সুরসংযোজন"
+
+#: inc/customizer.php:24
+msgid "Show Home Icon"
+msgstr "দেখান হোম আইকন"
+
+#: inc/customizer.php:37
+msgid "Check to show the home icon in the primary menu"
+msgstr "প্রাথমিক মেনু হোম আইকন প্রদর্শন করা চেক"
+
+#: inc/customizer.php:44
+msgid "Sticky Menu"
+msgstr "চটচটে মেনু"
+
+#: inc/customizer.php:57
+msgid "Check to Enable the sticky behavior of the primary menu"
+msgstr "প্রাথমিক মেনু চটচটে আচরণ সক্ষম চেক"
+
+#: inc/customizer.php:64
+msgid "Search Icon"
+msgstr "অনুসন্ধান আইকন"
+
+#: inc/customizer.php:77
+msgid "Check to display the Search Icon in the primary menu"
+msgstr "প্রাথমিক মেনু এ অনুসন্ধান আইকন প্রদর্শনের জন্য পরীক্ষা"
+
+#: inc/customizer.php:86
+msgid "Header Logo"
+msgstr "হেডার  লোগো "
+
+#: inc/customizer.php:97
+msgid "Upload logo for your header"
+msgstr "আপনার হেডার জন্য লোগো আপলোড"
+
+#: inc/customizer.php:110
+msgid "Choose the option that you want"
+msgstr "বিকল্প যে আপনি চান চয়ন করুন"
+
+#: inc/customizer.php:113 inc/customizer.php:526
+msgid "Header Logo Only"
+msgstr "শুধু  হেডার  লোগো  "
+
+#: inc/customizer.php:114 inc/customizer.php:527
+msgid "Header Text Only"
+msgstr "শুধু, হেডার পাঠ"
+
+#: inc/customizer.php:121
+msgid "Top Menu Color Settings"
+msgstr "শীর্ষ মেনু রঙ সেটিংস"
+
+#: inc/customizer.php:150 inc/customizer.php:163 inc/customizer.php:468
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/customizer.php:164
+msgid ""
+"Choice <a target=\"_blank\" href=\"https://fortawesome.github.io/Font-Awesome/icons/"
+"\">Font Awesome Icon</a>"
+msgstr ""
+"পছন্দ করুন  <a target=\"_blank\" href=\"https://fortawesome.github.io/Font-Awesome/"
+"icons/\">Font Awesome Icon</a>"
+
+#: inc/customizer.php:177
+msgid "Change the Design Settings from here as you want"
+msgstr "এখানে থেকে ডিজাইন সেটিংস পরিবর্তন হিসাবে আপনি চান"
+
+#: inc/customizer.php:179
+msgid "Design Options"
+msgstr "নকশা অপশন"
+
+#: inc/customizer.php:187
+msgid "Body Background Image"
+msgstr "বডি পটভূমির চিত্র"
+
+#: inc/customizer.php:198
+msgid "Upload Your Background Images"
+msgstr "আপলোড করার জন্য আপনার ব্যাকগ্রাউন্ড ইমেজ"
+
+#: inc/customizer.php:206
+msgid "Favicon Icon"
+msgstr "ফেভিকন আইকন"
+
+#: inc/customizer.php:217
+msgid "Upload Your Favicon Icon"
+msgstr "আপলোড করার জন্য আপনার ফেভিকন আইকন"
+
+#: inc/customizer.php:226
+msgid "Primary color option"
+msgstr "প্রাথমিক রঙ বিকল্প"
+
+#: inc/customizer.php:237
+msgid "This is a Primary Color Whole Page. Choose a color to match your site"
+msgstr "এই একটি প্রাথমিক রঙ গোটা পাতা. একটি রং আপনার সাইটে সাথে ম্যাচ করার জন্য চয়ন করুন"
+
+#: inc/customizer.php:246
+msgid "Primary Hover color"
+msgstr "প্রাথমিক রঙ বিকল্প"
+
+#: inc/customizer.php:257
+msgid "This is a Primary Hover Color"
+msgstr "প্রাথমিক রঙ বিকল্প"
+
+#: inc/customizer.php:266
+msgid "Front Page Setting"
+msgstr "হোমপেজে যান"
+
+#: inc/customizer.php:277
+msgid "Front Page Full Wide"
+msgstr "প্রথম পাতা পূর্ণ প্রস্থ"
+
+#: inc/customizer.php:353 inc/customizer.php:365
+msgid "Single & Blog Post Layout"
+msgstr "একক ও ব্লগ পোস্ট লেআউট"
+
+#: inc/customizer.php:377 inc/customizer.php:389
+msgid "Blog Post Layout Style"
+msgstr "ব্লগ পোস্ট বিন্যাস স্টাইল"
+
+#: inc/customizer.php:416
+msgid "Custom CSS"
+msgstr "কাস্টম CSS"
+
+#: inc/customizer.php:428
+msgid "Write your custom css"
+msgstr "আপনার কাস্টম CSS লিখুন"
+
+#: inc/customizer.php:439
+msgid "Category Color Options"
+msgstr "বিভাগ রঙ বিকল্প"
+
+#: inc/customizer.php:441
+msgid "Change the color of each category items as you want."
+msgstr "প্রতিটি বিভাগের আইটেম এর রং পরিবর্তন হিসাবে আপনি চান."
+
+#: inc/customizer.php:446
+msgid "Category Color Settings"
+msgstr "বিভাগ রঙ সেটিংস"
+
+#: inc/customizer.php:479
+msgid "Footer Section"
+msgstr "ফুটার অনুচ্ছেদ"
+
+#: inc/customizer.php:481
+msgid "This is a Footer Section"
+msgstr "এটা একটা ফুটার অনুচ্ছেদ"
+
+#: inc/customizer.php:486
+msgid "Copyright Text"
+msgstr "কপিরাইট টেক্সট"
+
+#: inc/customizer.php:497
+msgid "Change To Footer Copyright Text"
+msgstr "কপিরাইট টেক্সটে পরিবর্তন"
+
+#: inc/customizer.php:504
+msgid "Background Color"
+msgstr "পেছনের রং"
+
+#: inc/widget.php:14
+msgid "Right Sidebar"
+msgstr "রাইট সাইডবার"
+
+#: inc/widget.php:16
+msgid "Shows widgets at Right side."
+msgstr "ডান দিকে উইজেট দেখায়."
+
+#: inc/widget.php:24
+msgid "Home Widget"
+msgstr "হোম উইজেট"
+
+#: inc/widget.php:26
+msgid "Shows widgets at Home Side."
+msgstr "হোম সাইড এ উইজেট দেখায়."
+
+#: inc/widget.php:34
+msgid "Footer Widget One"
+msgstr ""
+
+#: inc/widget.php:36 inc/widget.php:46 inc/widget.php:56
+msgid "Shows widgets at Footer Side."
+msgstr ""
+
+#: inc/widget.php:44
+msgid "Footer Widget Two"
+msgstr ""
+
+#: inc/widget.php:54
+msgid "Footer Widget Three"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:12
+msgid ""
+"A widget that displays an About\n"
+"\t\twidget"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:19
+msgid "KM: About Me"
+msgstr "KM: আমার সম্পর্কে"
+
+#: inc/widgets/about_me_widget.php:149
+msgid "About Me"
+msgstr "আমার সম্পর্কে"
+
+#: inc/widgets/about_me_widget.php:183 inc/widgets/featured_post_widget.php:28
+#: inc/widgets/keenmoon_categories_list_widget.php:144
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:189
+msgid "Image:"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:196
+msgid "About me text:"
+msgstr "আমার সম্পর্কে টেক্সট:"
+
+#: inc/widgets/about_me_widget.php:202
+msgid "Facebook:"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:206
+msgid "Twitter:"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:210
+msgid "Linkedin:"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:214
+msgid "Google Plus:"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:218
+msgid "Youtube:"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:225
+msgid "Read More Link:"
+msgstr "আরো পড়ুন লিংক:"
+
+#: inc/widgets/featured_post_widget.php:8
+msgid "Display latest posts or posts of specific category."
+msgstr "সর্বশেষ পোস্ট বা নির্দিষ্ট বিষয়শ্রেণীতে পোস্ট প্রদর্শন করা হবে."
+
+#: inc/widgets/featured_post_widget.php:10
+msgid "KM: Featured Posts"
+msgstr "KM: আলোচিত পোস্ট"
+
+#: inc/widgets/featured_post_widget.php:31
+msgid "Description"
+msgstr "বিবরণ"
+
+#: inc/widgets/featured_post_widget.php:34
+msgid "Number of posts to display:"
+msgstr "প্রদর্শনের জন্য পোস্টের সংখ্যা:"
+
+#: inc/widgets/featured_post_widget.php:38
+msgid "Show latest Posts"
+msgstr "দেখান সর্বশেষ পোস্ট"
+
+#: inc/widgets/featured_post_widget.php:39
+#: inc/widgets/keenmoon_home_featured_widget.php:83
+#: inc/widgets/keenmoon_slider_widget.php:73
+msgid "Show posts from a category"
+msgstr "একটি বিভাগ থেকে পোস্ট দেখান"
+
+#: inc/widgets/featured_post_widget.php:42
+msgid "Select category"
+msgstr "নির্বাচন করুন  বিভাগ"
+
+#: inc/widgets/keenmoon_categories_list_widget.php:14
+msgid "A list or dropdown of categories."
+msgstr "একটি তালিকা অথবা আরও ড্রপডাউন."
+
+#: inc/widgets/keenmoon_categories_list_widget.php:15
+msgid "KM: Categories"
+msgstr "KM: বিভাগ পোস্ট"
+
+#: inc/widgets/keenmoon_categories_list_widget.php:32
+msgid "Categories"
+msgstr "বিভাগ"
+
+#: inc/widgets/keenmoon_categories_list_widget.php:55
+msgid "Select Category"
+msgstr "নির্বাচন করুন  বিভাগ"
+
+#: inc/widgets/keenmoon_categories_list_widget.php:148
+msgid "Display as dropdown"
+msgstr "ড্রপডাউন হিসাবে প্রদর্শন"
+
+#: inc/widgets/keenmoon_categories_list_widget.php:151
+msgid "Show post counts"
+msgstr "পোস্ট দেখান গন্য"
+
+#: inc/widgets/keenmoon_categories_list_widget.php:154
+msgid "Show hierarchy"
+msgstr "দেখান অনুক্রমের"
+
+#: inc/widgets/keenmoon_flickr_widget.php:10
+msgid "KM: Flickr Widget"
+msgstr "KM: ফ্লিকার উইজেট"
+
+#: inc/widgets/keenmoon_flickr_widget.php:12
+msgid "This is a Keenmoon Flickr Widget"
+msgstr ""
+
+#: inc/widgets/keenmoon_home_featured_widget.php:11
+msgid "KM: Home Featured Post"
+msgstr "KM: হোম আলোচিত পোস্ট"
+
+#: inc/widgets/keenmoon_home_featured_widget.php:13
+msgid "This is a Home Page Featured Post Widget"
+msgstr ""
+
+#: inc/widgets/keenmoon_home_featured_widget.php:82
+#: inc/widgets/keenmoon_slider_widget.php:72
+msgid "Show Featured Posts"
+msgstr "দেখান আলোচিত পোস্ট"
+
+#: inc/widgets/keenmoon_slider_widget.php:11
+msgid "KM: Home Slider Widget"
+msgstr "KM: হোম স্লাইডার উইজেট"
+
+#: inc/widgets/keenmoon_slider_widget.php:13
+msgid "This is a Keenmoon slider widget"
+msgstr ""
+
+#: inc/widgets/keenmoon_social_icon_widget.php:9
+msgid "KM: Social Widget"
+msgstr "KM: সোশ্যাল উইজেট"
+
+#: inc/widgets/keenmoon_social_icon_widget.php:11
+msgid "This is a Keenmoon social incon widget."
+msgstr ""
+
+#: inc/widgets/keenmoon_twitter_feed.php:10
+msgid "KM: Twitter Feed"
+msgstr "KM: টুইটার ফিড"
+
+#: inc/widgets/keenmoon_twitter_feed.php:12
+msgid "This is a KM Twitter Feed Widget"
+msgstr ""
+
+#: navigation.php:24 navigation.php:36
+msgid "&larr; Previous"
+msgstr "&larr; আগে"
+
+#: navigation.php:25 navigation.php:37
+msgid "Next &rarr;"
+msgstr "পরবর্তী  &rarr;"
+
+#: navigation.php:44
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr; আগে"
+
+#: navigation.php:45
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "পরবর্তী  &rarr;"
+
+#: no-results.php:17
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some different "
+"keywords."
+msgstr "দুঃখিত, কোনো কিছু খোজ মিলছে না . কিছু ভিন্ন কীওয়ার্ড দিয়ে আবার চেষ্টা করুন."
+
+#: no-results.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can "
+"help."
+msgstr ""
+"এটা আমরা খুঁজে পাচ্ছি না আপনি যা খুঁজছিলেন মনে হয়. সম্ভবত সাহায্য করতে পারেন অনুসন্ধানের."
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#~ msgid "Releted Post"
+#~ msgstr "সম্পর্কিত পোস্ট"

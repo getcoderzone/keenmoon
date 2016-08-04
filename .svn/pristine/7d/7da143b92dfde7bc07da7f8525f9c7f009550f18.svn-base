@@ -1,0 +1,20 @@
+<?php
+/**
+ * Template to show the front page.
+ *
+ * @package GetCoderZone
+ * @subpackage Khelabuzz
+ * @since Khelabuzz 1.0
+ */
+?>
+
+<?php get_header(); ?>
+    <!-- Blog Post Content Column -->
+    <?php 
+      if ( 'posts' == get_option( 'show_on_front' ) ) {
+          include( get_home_template() );
+      } else {
+          include( get_page_template() );
+      }
+    ?>
+<?php get_footer(); ?>

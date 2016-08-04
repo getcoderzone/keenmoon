@@ -1,0 +1,28 @@
+<?php
+/**
+ * Template Name: Full Width Page
+ *
+ * @package GetCoderZone
+ * @subpackage keenmoon
+ * @since keenmoon 1.0.1
+ */
+
+?>
+<?php get_header(); ?>
+    <div class="container">
+        <div class="row">
+            <!-- Blog Post Content Column -->
+            <div class="col-md-12 content">
+            	<?php if ( have_posts() ) : ?>
+					<?php while ( have_posts() ) : the_post(); ?>
+						<?php get_template_part( 'content', 'page' ); ?>
+					<?php endwhile; ?>
+				<?php else : ?>
+
+				<?php get_template_part( 'no-results', 'none' ); ?>
+
+				<?php endif; ?>
+			</div><!-- #content -->
+		</div><!-- #row -->
+	</div><!-- #container -->
+<?php get_footer(); ?>

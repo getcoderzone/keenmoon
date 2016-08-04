@@ -1,0 +1,545 @@
+# Keenmoon WordPress Theme. Translation template file.
+# This file is distributed under the same license as the Keenmoon Theme.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Keenmoon\n"
+"POT-Creation-Date: 2016-03-13 23:19+0600\n"
+"PO-Revision-Date: 2016-03-13 11:28+0545\n"
+"Last-Translator: \n"
+"Language-Team: GetCoderZone <getcoderzone@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+
+#: 404.php:16
+msgid ""
+"Sorry, we could not found the page you are looking for!<br>Please search using the "
+"below form again."
+msgstr ""
+
+#: 404.php:23 header.php:124
+msgid "SEARCH..."
+msgstr ""
+
+#: 404.php:25
+msgid "Search for:"
+msgstr ""
+
+#: 404.php:28
+msgid "Go To Home Page"
+msgstr ""
+
+#: archive.php:35
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:43
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:46
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:49
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:52
+msgid "Asides"
+msgstr ""
+
+#: archive.php:55
+msgid "Images"
+msgstr ""
+
+#: archive.php:58
+msgid "Videos"
+msgstr ""
+
+#: archive.php:61
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:64
+msgid "Links"
+msgstr ""
+
+#: archive.php:67
+msgid "Archives"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:28 content-single.php:35
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:41
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:64
+msgid "Related Post"
+msgstr ""
+
+#: content-single.php:102
+msgid "Read More"
+msgstr ""
+
+#: content.php:37
+msgid "Continue Reading"
+msgstr ""
+
+#: functions.php:24
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:25
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:208
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:208
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:242
+msgid "Your comment is awaiting moderation."
+msgstr "তোমার মতামত বিবেচনাধীন."
+
+#: functions.php:247
+msgid "Reply"
+msgstr ""
+
+#: inc/customizer.php:16
+msgid "Change the Header Settings from here as you want"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "Show Home Icon"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Check to show the home icon in the primary menu"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Check to Enable the sticky behavior of the primary menu"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Search Icon"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Check to display the Search Icon in the primary menu"
+msgstr ""
+
+#: inc/customizer.php:86
+msgid "Header Logo"
+msgstr ""
+
+#: inc/customizer.php:97
+msgid "Upload logo for your header"
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "Choose the option that you want"
+msgstr ""
+
+#: inc/customizer.php:113 inc/customizer.php:526
+msgid "Header Logo Only"
+msgstr ""
+
+#: inc/customizer.php:114 inc/customizer.php:527
+msgid "Header Text Only"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Top Menu Color Settings"
+msgstr ""
+
+#: inc/customizer.php:150 inc/customizer.php:163 inc/customizer.php:468
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/customizer.php:164
+msgid ""
+"Choice <a target=\"_blank\" href=\"https://fortawesome.github.io/Font-Awesome/icons/"
+"\">Font Awesome Icon</a>"
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Change the Design Settings from here as you want"
+msgstr ""
+
+#: inc/customizer.php:179
+msgid "Design Options"
+msgstr ""
+
+#: inc/customizer.php:187
+msgid "Body Background Image"
+msgstr ""
+
+#: inc/customizer.php:198
+msgid "Upload Your Background Images"
+msgstr ""
+
+#: inc/customizer.php:206
+msgid "Favicon Icon"
+msgstr ""
+
+#: inc/customizer.php:217
+msgid "Upload Your Favicon Icon"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Primary color option"
+msgstr ""
+
+#: inc/customizer.php:237
+msgid "This is a Primary Color Whole Page. Choose a color to match your site"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "Primary Hover color"
+msgstr ""
+
+#: inc/customizer.php:257
+msgid "This is a Primary Hover Color"
+msgstr ""
+
+#: inc/customizer.php:266
+msgid "Front Page Setting"
+msgstr ""
+
+#: inc/customizer.php:277
+msgid "Front Page Full Wide"
+msgstr ""
+
+#: inc/customizer.php:353 inc/customizer.php:365
+msgid "Single & Blog Post Layout"
+msgstr ""
+
+#: inc/customizer.php:377 inc/customizer.php:389
+msgid "Blog Post Layout Style"
+msgstr ""
+
+#: inc/customizer.php:416
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:428
+msgid "Write your custom css"
+msgstr ""
+
+#: inc/customizer.php:439
+msgid "Category Color Options"
+msgstr ""
+
+#: inc/customizer.php:441
+msgid "Change the color of each category items as you want."
+msgstr ""
+
+#: inc/customizer.php:446
+msgid "Category Color Settings"
+msgstr ""
+
+#: inc/customizer.php:479
+msgid "Footer Section"
+msgstr ""
+
+#: inc/customizer.php:481
+msgid "This is a Footer Section"
+msgstr ""
+
+#: inc/customizer.php:486
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:497
+msgid "Change To Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:504
+msgid "Background Color"
+msgstr ""
+
+#: inc/widget.php:14
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/widget.php:16
+msgid "Shows widgets at Right side."
+msgstr ""
+
+#: inc/widget.php:24
+msgid "Home Widget"
+msgstr ""
+
+#: inc/widget.php:26
+msgid "Shows widgets at Home Side."
+msgstr ""
+
+#: inc/widget.php:34
+msgid "Footer Widget One"
+msgstr ""
+
+#: inc/widget.php:36 inc/widget.php:46 inc/widget.php:56
+msgid "Shows widgets at Footer Side."
+msgstr ""
+
+#: inc/widget.php:44
+msgid "Footer Widget Two"
+msgstr ""
+
+#: inc/widget.php:54
+msgid "Footer Widget Three"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:12
+msgid ""
+"A widget that displays an About\n"
+"\t\twidget"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:19
+msgid "KM: About Me"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:149
+msgid "About Me"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:183 inc/widgets/featured_post_widget.php:28
+#: inc/widgets/keenmoon_categories_list_widget.php:144
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:189
+msgid "Image:"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:196
+msgid "About me text:"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:202
+msgid "Facebook:"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:206
+msgid "Twitter:"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:210
+msgid "Linkedin:"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:214
+msgid "Google Plus:"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:218
+msgid "Youtube:"
+msgstr ""
+
+#: inc/widgets/about_me_widget.php:225
+msgid "Read More Link:"
+msgstr ""
+
+#: inc/widgets/featured_post_widget.php:8
+msgid "Display latest posts or posts of specific category."
+msgstr ""
+
+#: inc/widgets/featured_post_widget.php:10
+msgid "KM: Featured Posts"
+msgstr ""
+
+#: inc/widgets/featured_post_widget.php:31
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/featured_post_widget.php:34
+msgid "Number of posts to display:"
+msgstr ""
+
+#: inc/widgets/featured_post_widget.php:38
+msgid "Show latest Posts"
+msgstr ""
+
+#: inc/widgets/featured_post_widget.php:39
+#: inc/widgets/keenmoon_home_featured_widget.php:83
+#: inc/widgets/keenmoon_slider_widget.php:73
+msgid "Show posts from a category"
+msgstr ""
+
+#: inc/widgets/featured_post_widget.php:42
+msgid "Select category"
+msgstr ""
+
+#: inc/widgets/keenmoon_categories_list_widget.php:14
+msgid "A list or dropdown of categories."
+msgstr ""
+
+#: inc/widgets/keenmoon_categories_list_widget.php:15
+msgid "KM: Categories"
+msgstr ""
+
+#: inc/widgets/keenmoon_categories_list_widget.php:32
+msgid "Categories"
+msgstr ""
+
+#: inc/widgets/keenmoon_categories_list_widget.php:55
+msgid "Select Category"
+msgstr ""
+
+#: inc/widgets/keenmoon_categories_list_widget.php:148
+msgid "Display as dropdown"
+msgstr ""
+
+#: inc/widgets/keenmoon_categories_list_widget.php:151
+msgid "Show post counts"
+msgstr ""
+
+#: inc/widgets/keenmoon_categories_list_widget.php:154
+msgid "Show hierarchy"
+msgstr ""
+
+#: inc/widgets/keenmoon_flickr_widget.php:10
+msgid "KM: Flickr Widget"
+msgstr ""
+
+#: inc/widgets/keenmoon_flickr_widget.php:12
+msgid "This is a Keenmoon Flickr Widget"
+msgstr ""
+
+#: inc/widgets/keenmoon_home_featured_widget.php:11
+msgid "KM: Home Featured Post"
+msgstr ""
+
+#: inc/widgets/keenmoon_home_featured_widget.php:13
+msgid "This is a Home Page Featured Post Widget"
+msgstr ""
+
+#: inc/widgets/keenmoon_home_featured_widget.php:82
+#: inc/widgets/keenmoon_slider_widget.php:72
+msgid "Show Featured Posts"
+msgstr ""
+
+#: inc/widgets/keenmoon_slider_widget.php:11
+msgid "KM: Home Slider Widget"
+msgstr ""
+
+#: inc/widgets/keenmoon_slider_widget.php:13
+msgid "This is a Keenmoon slider widget"
+msgstr ""
+
+#: inc/widgets/keenmoon_social_icon_widget.php:9
+msgid "KM: Social Widget"
+msgstr ""
+
+#: inc/widgets/keenmoon_social_icon_widget.php:11
+msgid "This is a Keenmoon social incon widget."
+msgstr ""
+
+#: inc/widgets/keenmoon_twitter_feed.php:10
+msgid "KM: Twitter Feed"
+msgstr ""
+
+#: inc/widgets/keenmoon_twitter_feed.php:12
+msgid "This is a KM Twitter Feed Widget"
+msgstr ""
+
+#: navigation.php:24 navigation.php:36
+msgid "&larr; Previous"
+msgstr ""
+
+#: navigation.php:25 navigation.php:37
+msgid "Next &rarr;"
+msgstr ""
+
+#: navigation.php:44
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: navigation.php:45
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: no-results.php:17
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some different "
+"keywords."
+msgstr ""
+
+#: no-results.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can "
+"help."
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#~ msgid "Releted Post"
+#~ msgstr ""
